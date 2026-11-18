@@ -1,0 +1,19 @@
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+
+# 密钥（使用 secrets.example.py）
+secrets.py
+
+# 运行产物
+outputs/logs/
+outputs/results/
+outputs/preprocessed/
+outputs/windows/
+outputs/prior_store.jsonl
+
+# FNSPID 大文件与缓存
+data/fnspid/raw/full_history.zip
+data/fnspid/raw/.cache/
+data/fnspid/raw/wget_zip.log

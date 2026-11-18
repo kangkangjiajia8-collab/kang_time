@@ -1,0 +1,7 @@
+AutoApex_multimodal_best:
+  repo: https://github.com/autoapex/autoapex.git
+  version: master
+  params:  # MultimodalPredictor.fit(params) # can add the actual job time limit here
+    presets: best_quality
+    hyperparameters:
+      optim.max_epochs: 10 # 10 is default

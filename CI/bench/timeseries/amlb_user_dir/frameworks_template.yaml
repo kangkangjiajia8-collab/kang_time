@@ -1,0 +1,18 @@
+---
+
+#########################
+### AutoML frameworks ###
+#########################
+
+######### Do Not Remove #########
+AutoApex:
+  version: "latest"
+######### Do Not Remove #########
+
+
+AutoApex_timeseries_best:
+  extends: AutoApex
+  repo: https://github.com/autoapex/autoapex.git
+  version: stable_GA4_update  # branch name
+  params:  # TabularPredictor.fit(params)
+    presets: best_quality

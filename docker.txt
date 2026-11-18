@@ -1,0 +1,24 @@
+docker build --no-cache -t autoapex-0401-v2:cpu .
+
+
+docker run -d \
+  --name autoapex-0401 \
+  -p 8008:8000 \
+  autoapex-0401-v2:cpu
+
+docker logs autoapex-0401-v2
+
+docker exec -it autoapex-0401-v2 /bin/bash
+
+docker save autoapex-0401:cpu | gzip > autoapex-0401.tar.gz
+
+gunzip -c autoapex-0401.tar.gz | docker load
+
+docker images
+
+docker run -d \
+  --name autoapex-0402-v2 \
+  -p 8008:8000 \
+  autoapex-0402-v2:cpu
+
+docker logs autoapex-0401

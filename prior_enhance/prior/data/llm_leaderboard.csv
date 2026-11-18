@@ -1,0 +1,206 @@
+rank,model_name,score,org
+1,Claude Opus 4.8 (max),61,Anthropic
+2,GPT-5.5 (xhigh),60,OpenAI
+3,GPT-5.5 (high),59,OpenAI
+4,Opus 4.7 (max),57,Anthropic
+5,Gemini 3.1 Pro Preview,57,Google Deep Mind
+6,GPT-5.5 (medium),57,OpenAI
+7,Qwen3.7 Max,57,阿里巴巴
+8,Gemini 3.5 Flash,55,Google Deep Mind
+9,Gemini 3.5 Flash (medium),55,Google
+10,MiniMax-M3,55,MiniMax
+11,Kimi K2.6,54,Moonshot AI
+12,MiMo V2.5 Pro,54,Xiaomi
+13,GPT-5.3 Codex (xhigh),54,OpenAI
+14,Qwen3.7 Plus,53,Alibaba
+15,Grok 4.3 Beta (high),53,xAI
+16,Muse Spark,52,Facebook AI研究实验室
+17,Opus 4.7 (high),52,Anthropic
+18,Claude Sonnet 4.6 (max),52,Anthropic
+19,DeepSeek-V4-Pro (max),52,DeepSeek-AI
+20,GLM 5.1,51,智谱AI
+21,GPT-5.5 (low),51,OpenAI
+22,Qwen 3.6 Plus Preview,50,阿里巴巴
+23,DeepSeek-V4-Pro (high),50,DeepSeek-AI
+24,MiniMax-M2.7,50,MiniMaxAI
+25,MiMo V2.5,49,Xiaomi
+26,GPT-5.4 mini (xhigh),49,OpenAI
+27,Grok 4.3 Beta (medium),49,xAI
+28,Nemotron 3 Ultra,48,NVIDIA
+29,GLM-5-Turbo,47,智谱AI
+30,DeepSeek-V4-Flash (max),47,DeepSeek-AI
+31,DeepSeek-V4-Flash (high),46,DeepSeek-AI
+32,Qwen3.6-27B,46,阿里巴巴
+33,Qwen3.5-397B-A17B,45,阿里巴巴
+34,Nova 2 Omni（Preview）,45,亚马逊
+35,Claude Sonnet 4.6 (non-reasoning),44,Anthropic
+36,GPT-5.4 nano (xhigh),44,OpenAI
+37,GLM 5.1,44,智谱AI
+38,Qwen3.6-35B-A3B,43,阿里巴巴
+39,MiMo V2 Omni,43,Xiaomi
+40,Gemini 3.5 Flash (minimal),43,Google Deep Mind
+41,Kimi K2.6,43,Moonshot AI
+42,GLM-5V-Turbo,43,智谱AI
+43,"Claude Sonnet 4.6 (Non-reasoning, Low Effort)",43,Anthropic
+44,Step 3.7 Flash,43,StepFun
+45,Hy3 Pre,42,腾讯AI实验室
+46,GPT-5.5 Instant (May 2026),42,OpenAI
+47,Qwen3.5-122B-A10B,42,阿里巴巴
+48,Gemini 2.0 Flash Experimental,41,DeepMind
+49,GPT-5.5 (non-reasoning),41,OpenAI
+50,Qwen3.5-397B-A17B,40,阿里巴巴
+51,DeepSeek-V4-Pro,39,DeepSeek-AI
+52,Mistral Medium 3.5,39,MistralAI
+53,Gemma 4 31B,39,DeepMind
+54,Qwen3.5-Omni-Plus,39,阿里巴巴
+55,Step 3.5 Flash,38,StepFunAI
+56,Ring-2.6-1T,38,InclusionAI
+57,OpenAI o3,38,OpenAI
+58,GPT-5.4 nano,38,OpenAI
+59,GPT-5.4 mini (medium),38,OpenAI
+60,C4AI Command A (202503),37,CohereAI
+61,Qwen3.6-27B,37,阿里巴巴
+62,Haiku 4.5,37,Anthropic
+63,DeepSeek-V4-Flash,36,DeepSeek-AI
+64,JT-35B-Flash,36,China Mobile
+65,NVIDIA Nemotron 3 Super,36,NVIDIA
+66,Qwen3.5-122B-A10B,36,阿里巴巴
+67,Nova 2 Pro（Preview） (medium),36,亚马逊
+68,MiMo V2.5 Pro,36,Xiaomi
+69,Gemini 2.5-Pro,35,Google Deep Mind
+70,Nova 2 Lite (high),35,亚马逊
+71,Hy3 Pre,34,腾讯AI实验室
+72,Ling-2.6-1T,34,InclusionAI
+73,Doubao Seed Code,34,ByteDance Seed
+74,Gemini 3.1 Flash-Lite,34,Google
+75,GPT OSS 120B (high),33,OpenAI
+76,Mercury 2,33,Inception
+77,Qwen3.5-9B-Instruct,32,阿里巴巴
+78,Gemma 4 31B,32,DeepMind
+79,K-EXAONE,32,LG AI Research
+80,Nova 2 Pro（Preview） (low),32,亚马逊
+81,Trinity Large Thinking,32,Arcee AI
+82,Qwen3.6-35B-A3B,32,阿里巴巴
+83,Gemma 4 26B A4B,31,DeepMind
+84,Haiku 4.5,31,Anthropic
+85,Grok 4.3 (Non-reasoning),31,xAI
+86,Qwen3.5-35B-A3B,31,阿里巴巴
+87,MiMo-V2-Flash,30,Xiaomi
+88,EXAONE 4.5 33B,30,LG AI Research
+89,Nova 2 Lite (medium),30,亚马逊
+90,ERNIE 5.0,29,百度
+91,Nemotron Cascade 2 30B A3B,28,NVIDIA
+92,Qwen3-Coder-Next,28,阿里巴巴
+93,Nova 2 Omni（Preview） (medium),28,亚马逊
+94,Mistral Small 4,28,Mistral
+95,Qwen3.5-9B-Instruct,27,阿里巴巴
+96,Magistral Medium 1.2,27,Mistral
+97,Gemma 4 26B A4B,27,DeepMind
+98,Qwen3.5 4B,27,Alibaba
+99,Qwen3-Next,27,阿里巴巴
+100,Ling 2.6 Flash,26,InclusionAI
+101,Solar Pro 3,26,Upstage
+102,Qwen3.5-Omni-Flash,26,阿里巴巴
+103,JT-MINI,25,China Mobile
+104,Nova 2 Lite (low),25,亚马逊
+105,GPT OSS 20B (high),24,OpenAI
+106,GPT OSS 120B (low),24,OpenAI
+107,GPT-5.4 nano,24,OpenAI
+108,NVIDIA Nemotron 3 Nano,24,NVIDIA
+109,LongCat Flash Lite,24,LongCat
+110,K-EXAONE,23,LG AI Research
+111,GPT-5.4 mini,23,OpenAI
+112,Nova 2 Omni（Preview） (low),23,亚马逊
+113,Nova 2 Pro（Preview）,23,亚马逊
+114,Mi:dm K 2.5 Pro,23,Korea Telecom
+115,Mistral Large 3,23,MistralAI
+116,Qwen3.5 4B,23,Alibaba
+117,INTELLECT-3 Prime,22,Prime Intellect
+118,Devstral 2,22,Mistral
+119,Solar Open 100B,22,Upstage
+120,Qwen3-Omni-30B-A3B (reasoning),21,阿里巴巴
+121,GPT OSS 20B (low),21,OpenAI
+122,Qwen3-Next,20,阿里巴巴
+123,Devstral Small 2,19,Mistral
+124,Motif-2-12.7B,19,Motif Technologies
+125,Nova Premier,19,Amazon
+126,Gemma 4 E4B,19,DeepMind
+127,Llama Nemotron Super 49B v1.5,19,Meta
+128,Mistral Small 4,19,Mistral
+129,Llama 4 Maverick,18,Facebook AI研究实验室
+130,MiniCPM5-1B,18,OpenBMB
+131,Magistral Small 1.2,18,Mistral
+132,Sarvam 105B (high),18,Sarvam
+133,Nova 2 Lite,18,亚马逊
+134,MiniCPM5-1B,18,OpenBMB
+135,Llama3.1-405B,17,Facebook AI研究实验室
+136,EXAONE 4.0 32B,17,LG AI Research
+137,Nova 2 Omni（Preview）,17,亚马逊
+138,Qwen3.5 2B,16,Alibaba
+139,Nanbeige4.1-3B,16,Nanbeige
+140,Ministral 3 14B,16,MistralAI
+141,Falcon-H1R-7B,16,TII UAE
+142,Qwen3-Omni-30B-A3B,16,阿里巴巴
+143,Step3 VL 10B,15,StepFun
+144,Gemma 4 E2B,15,DeepMind
+145,Llama Nemotron Ultra,15,NVIDIA
+146,ERNIE-4.5-300B-A47B,15,百度
+147,Solar Pro 2,15,Upstage
+148,NVIDIA Nemotron Nano 12B v2 VL,15,NVIDIA
+149,Ministral 3 8B,15,MistralAI
+150,Gemma 4 E4B,15,DeepMind
+151,NVIDIA Nemotron Nano 9B V2,15,NVIDIA
+152,Granite 4.1 30B,15,IBM
+153,NVIDIA Nemotron 3 Nano 4B,15,NVIDIA
+154,Qwen3.5 2B,15,Alibaba
+155,Llama Nemotron Super 49B v1.5,15,Meta
+156,Llama3.3-70B-Instruct,14,Facebook AI研究实验室
+157,Kimi Linear 48B A3B Instruct,14,Kimi
+158,Ring-flash-2.0,14,InclusionAI
+159,Solar Pro 2,14,Upstage
+160,Llama 4 Scout,14,Facebook AI研究实验室
+161,C4AI Command A (202503),13,CohereAI
+162,Llama 3.1 Nemotron 70B,13,NVIDIA
+163,NVIDIA Nemotron 3 Nano,13,NVIDIA
+164,NVIDIA Nemotron Nano 9B V2,13,NVIDIA
+165,MiniCPM-V 4.6 1.3B,13,OpenBMB
+166,Granite 4.1 8B,12,IBM
+167,Sarvam 30B (high),12,Sarvam
+168,Gemma 4 E2B,12,DeepMind
+169,R1 1776,12,Perplexity
+170,Llama 3.2-Vision-90B,12,Facebook AI研究实验室
+171,EXAONE 4.0 32B,12,LG AI Research
+172,Ministral 3 3B,11,Mistral
+173,Jamba 1.7 Large,11,AI21 Labs
+174,Granite 4.0 H Small,11,IBM
+175,Qwen3-Omni-30B-A3B,11,阿里巴巴
+176,Qwen3.5 0.8B,11,Alibaba
+177,LFM2 24B A2B,10,Liquid AI
+178,Phi 4 - 14B,10,Microsoft Azure
+179,Amazon Nova Micro,10,亚马逊
+180,NVIDIA Nemotron Nano 12B v2 VL,10,NVIDIA
+181,Phi-4-multimodal-instruct,10,Microsoft Azure
+182,Qwen3.5 0.8B,10,Alibaba
+183,Jamba Reasoning 3B,10,AI21 Labs
+184,Gemini 3.0 Flash,10,Google Deep Mind
+185,Ling-mini-2.0,9,InclusionAI
+186,Llama 3.2-Vision-11B,9,Facebook AI研究实验室
+187,Granite 4.1 3B,9,IBM
+188,Phi-4-mini-instruct (3.8B),8,Microsoft Azure
+189,Exaone 4.0 1.2B,8,LG AI Research
+190,Exaone 4.0 1.2B,8,LG AI Research
+191,LFM2.5-1.2B-Thinking,8,Liquid AI
+192,Jamba 1.7 Mini,8,AI21 Labs
+193,LFM2 2.6B,8,Liquid AI
+194,LFM2.5-1.2B-Instruct,8,Liquid AI
+195,Granite 4.0 H 1B,8,IBM
+196,Gemma 3-270M,8,Google Deep Mind
+197,Apertus 70B Instruct,8,Swiss AI
+198,Granite 4.0 Micro,8,IBM
+199,Granite 4.0 1B,7,IBM
+200,LFM2 8B A1B,7,Liquid AI
+201,LFM2.5-VL-1.6B,6,Liquid AI
+202,Granite 4.0 350M,6,IBM
+203,Apertus 8B Instruct,6,Swiss AI
+204,Granite 4.0 H 350M,5,IBM
+205,Tiny Aya Global,5,Cohere

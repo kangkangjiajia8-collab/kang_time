@@ -1,0 +1,43 @@
+# Git
+.git/
+.github/
+
+# Python 缓存
+**/__pycache__/
+**/*.pyc
+**/*.pyo
+**/*.egg-info/
+**/.pytest_cache/
+
+# conda/venv 环境（不需要打进镜像）
+**/.venv/
+**/venv/
+**/env/
+
+# 测试数据和结果（体积大，不需要打进镜像）
+serve/outputs/
+serve/example/
+AutogluonModels/
+AutoapexModels/
+results*/
+order_daily*/
+测试data/
+data*/
+demo_data/
+
+# 日志
+serve/main.log
+serve/logs/
+**/*.log
+
+# 文档
+docs/
+**/*.md
+release_instructions/
+
+# CI 脚本（容器内不需要）
+CI/
+
+# 其他无用文件
+.cursor/
+**/.DS_Store

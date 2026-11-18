@@ -1,0 +1,12 @@
+cd /tmp/autoapex_serve_stage && \
+pyarmor obfuscate -r -O /tmp/autoapex_serve_obf --restrict 0 --no-cross-protection \
+  --exclude outputs,logs,__pycache__,example main.py
+
+pyarmor obfuscate -r -O /dist/serve --restrict 0 --no-cross-protection \
+  --exclude outputs,logs,__pycache__,example main.py
+
+
+python test_inference_v1.py \
+  --model-id  94f61cec-7e64-467b-a508-01bb9fdd8d50 \
+  --data-csv /mnt/raid/forecast/Valrant/GZSB/prob/autoapex/0518data/unit_10_月/10_01.csv \
+  --best-model WeightedEnsemble
